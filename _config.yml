@@ -2,34 +2,34 @@ theme: jekyll-theme-minimal
 font-icon: /assets/css/font-awesome-4.7.0/css/font-awesome.min.css
 
 # 你的求职方向，比如前端开发工程师等
-title: NBA球员/小前锋/大前锋/控卫
+title: 后端开发工程师/项目管理/技术支持
 
 # 对你自己的简洁描述
-description: 小皇帝篮球智商极高、突破犀利，拥有出色的视野和传球技术，被认为是NBA有史以来最为全能的球员之一
+description: 执着的IT人
 
 # 你的美照地址
-logo: /assets/images/me.jpg
+logo: /assets/images/2028732.jpg
 
 # 你的名字
-name: 勒布朗·詹姆斯(LeBron James)
+name: 李林(LiLin)
 
 # 你的联系方式
-phone: 188888888888
+phone: 13909999998
 
 # 你的邮箱
-email: LeBron@unkown.com
+email: LiLin@unkown.com
 
 # 你目前的住址
-address: 美国洛杉矶
+address: 中国西藏拉萨
 
 # 你毕业院校
-school: 圣文森特·圣玛丽高中
+school: 西安电子科技大学
 
 # 你的专业
-profession: 专业篮球运动员
+profession: 计算机及其应用
 
 # 你的学位
-degree: 高中没毕业
+degree: 大学本科
 
 # 你获得过的证书或奖励
-credential: 三届MVP/三届NBA冠军
+credential: 项目管理工程师
